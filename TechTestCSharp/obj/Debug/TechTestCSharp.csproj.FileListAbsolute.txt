@@ -1,0 +1,6 @@
+D:\Thach\Projects\TechTestCSharp\bin\Debug\TechTestCSharp.exe.config
+D:\Thach\Projects\TechTestCSharp\obj\Debug\TechTestCSharp.csprojResolveAssemblyReference.cache
+D:\Thach\Projects\TechTestCSharp\bin\Debug\TechTestCSharp.exe
+D:\Thach\Projects\TechTestCSharp\bin\Debug\TechTestCSharp.pdb
+D:\Thach\Projects\TechTestCSharp\obj\Debug\TechTestCSharp.exe
+D:\Thach\Projects\TechTestCSharp\obj\Debug\TechTestCSharp.pdb
